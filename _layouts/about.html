@@ -41,6 +41,8 @@ layout: default
             {{ content }}
           </div>
 
+          {% include carousel.html height="50" unit="%" duration="7" number="1" %}
+
           <!-- News -->
           {% if page.news and site.announcements.enabled -%}
             <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
@@ -73,5 +75,5 @@ layout: default
             </div>
           {%- endif %}
         </article>
-
+        
 </div>
