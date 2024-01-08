@@ -38,7 +38,7 @@ alumni:
     website: https://www.linkedin.com/in/sahandsharifzadeh/?locale=de_DE
     type: PhD
     year: 2022
-    nowAt: 
+    nowAt: Huawei, München
   - name: Dr. Zhen Han
     website: https://sites.google.com/view/zhenhan/home?authuser=0
     type: PhD
@@ -58,12 +58,12 @@ alumni:
     website: https://zhiliangwu.github.io/
     type: PhD
     year: 2022
-    nowAt: Siemens AG, Munich
+    nowAt: Siemens, München
   - name: Dr. Marcel Hildebrandt
     website: https://www.linkedin.com/in/marcel-hildebrandt-523805114/
     type: PhD
     year: 2021
-    nowAt: Siemens AG, Munich
+    nowAt: Siemens, München
   - name: Dr. Rui Zhao
     website: https://ruizhaogit.github.io/
     type: PhD
@@ -73,6 +73,21 @@ alumni:
     website: https://www.dbs.ifi.lmu.de/cms/personen/mitarbeiter/ma/index.html
     type: PhD
     year: 2020
+    nowAt:
+  - name: Dr. Stephan Baier
+    website: 
+    type: PhD
+    year: 2019
+    nowAt:
+  - name: Dr. Yinchong Yang
+    website: https://www.xing.com/profile/Yinchong_Yang
+    type: PhD
+    year: 2018
+    nowAt: Siemens, München
+  - name: Dr. 
+    website: 
+    type: PhD
+    year: 
     nowAt: 
 ---
 
