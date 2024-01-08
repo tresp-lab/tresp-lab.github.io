@@ -31,107 +31,107 @@ alumni:
   people:
   - name: Dr. Sahand Sharifzadeh
     website: https://www.linkedin.com/in/sahandsharifzadeh/?locale=de_DE
-    type: PhD
+    type: LMU
     year: 2022
     nowAt: Google Deepmind/ UK
   - name: Dr. Ahmed Frikha
     website: https://www.linkedin.com/in/sahandsharifzadeh/?locale=de_DE
-    type: PhD
+    type: LMU
     year: 2022
     nowAt: Huawei, München
   - name: Dr. Zhen Han
     website: https://sites.google.com/view/zhenhan/home?authuser=0
-    type: PhD
+    type: LMU
     year: 2022
     nowAt: Amazon/ UK
   - name: Dr. Jindong Gu
     website: https://jindonggu.github.io/
-    type: PhD
+    type: LMU
     year: 2022
     nowAt: University of Oxford & Google Research/ UK
   - name: Dr. Max Berrendorf
     website: https://www.dbs.ifi.lmu.de/cms/personen/mitarbeiter/berrendorf/index.html
-    type: PhD
+    type: LMU
     year: 2022
     nowAt: 
   - name: Dr. Zhiliang Wu
     website: https://zhiliangwu.github.io/
-    type: PhD
+    type: LMU
     year: 2022
     nowAt: Siemens, München
   - name: Dr. Marcel Hildebrandt
     website: https://www.linkedin.com/in/marcel-hildebrandt-523805114/
-    type: PhD
+    type: LMU
     year: 2021
     nowAt: Siemens, München
   - name: Dr. Rui Zhao
     website: https://ruizhaogit.github.io/
-    type: PhD
+    type: LMU
     year: 2020
     nowAt: Tencent AI Lab & Robotics X/ China
   - name: Dr. Yunpu Ma
     website: https://www.dbs.ifi.lmu.de/cms/personen/mitarbeiter/ma/index.html
-    type: PhD
+    type: LMU
     year: 2020
     nowAt:
   - name: Dr. Stephan Baier
     website: 
-    type: PhD
+    type: LMU
     year: 2019
     nowAt:
   - name: Dr. Yinchong Yang
     website: https://www.xing.com/profile/Yinchong_Yang
-    type: PhD
+    type: LMU
     year: 2018
     nowAt: Siemens, München
   - name: Dr. Cristóbal Esteban
     website: https://www.linkedin.com/in/cristobalesteban/
-    type: PhD
+    type: LMU
     year: 2018
     nowAt:
   - name: Dr. Jonathan Boidol
     website: 
-    type: PhD
+    type: LMU
     year: 2017
     nowAt:
   - name: Dr. Denis Krompaß
     website: https://www.linkedin.com/in/denis-krompa%C3%9F-0669b191/
-    type: PhD
+    type: LMU
     year: 2015
     nowAt:
   - name: Dr. 
     website: 
-    type: PhD
+    type: LMU
     year: 
     nowAt:
   - name: Dr. 
     website: 
-    type: PhD
+    type: LMU
     year: 
     nowAt:
   - name: Dr. 
     website: 
-    type: PhD
+    type: LMU
     year: 
     nowAt:
   - name: Dr. 
     website: 
-    type: PhD
+    type: LMU
     year: 
     nowAt:
   - name: Dr. 
     website: 
-    type: PhD
+    type: LMU
     year: 
     nowAt:
   - name: Dr. 
     website: 
-    type: PhD
+    type: LMU
     year: 
     nowAt:
   - name: Dr. 
     website: 
-    type: PhD
+    type: LMU
     year: 
     nowAt: 
 ---
