@@ -99,35 +99,35 @@ alumni:
     type: LMU
     year: 2015
     nowAt:
-  - name: Dr. 
-    website: 
+  - name: Dr. Xueyan Jiang
+    website: https://www.xing.com/profile/Xueyan_Jiang
     type: LMU
-    year: 
+    year: 2014
+    nowAt: 
+  - name: Dr. Maximilian Nickel
+    website: https://maxn.io/
+    type: LMU
+    year: 2013
+    nowAt: 
+  - name: Dr. Yi Huang
+    website: https://www.linkedin.com/in/yi-huang-2810a418/
+    type: LMU
+    year: 2020
+    nowAt: 
+  - name: Dr. Achim Rettinger
+    website: https://www.uni-trier.de/index.php?id=69122
+    type: TUM
+    year: 2010
     nowAt:
-  - name: Dr. 
-    website: 
+  - name: Dr. Markus Bundschus
+    website: https://www.dbs.ifi.lmu.de/%7Ebundschu/
     type: LMU
-    year: 
+    year: 2010
     nowAt:
-  - name: Dr. 
+  - name: Dr. Zhao Xu
     website: 
     type: LMU
-    year: 
-    nowAt:
-  - name: Dr. 
-    website: 
-    type: LMU
-    year: 
-    nowAt:
-  - name: Dr. 
-    website: 
-    type: LMU
-    year: 
-    nowAt:
-  - name: Dr. 
-    website: 
-    type: LMU
-    year: 
+    year: 2007
     nowAt:
   - name: Dr. 
     website: 
