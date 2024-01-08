@@ -29,17 +29,17 @@ staff:
 alumni:
   title: Alumni
   people:
-  - name: Sahand Sharifzadeh
+  - name: Dr. Sahand Sharifzadeh
     website: https://www.linkedin.com/in/sahandsharifzadeh/?locale=de_DE
     type: PhD
     year: 2022
     nowAt: Google Deepmind
-  - name: Zhen Han
+  - name: Dr. Zhen Han
     website: https://sites.google.com/view/zhenhan/home?authuser=0
     type: PhD
     year: 2022
     nowAt: Amazon
-  - name: Jindong Gu
+  - name: Dr. Jindong Gu
     website: https://jindonggu.github.io/
     type: PhD
     year: 2022
