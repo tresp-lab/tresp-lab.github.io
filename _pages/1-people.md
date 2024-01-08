@@ -84,6 +84,51 @@ alumni:
     type: PhD
     year: 2018
     nowAt: Siemens, München
+  - name: Dr. Cristóbal Esteban
+    website: https://www.linkedin.com/in/cristobalesteban/
+    type: PhD
+    year: 2018
+    nowAt:
+  - name: Dr. Jonathan Boidol
+    website: 
+    type: PhD
+    year: 2017
+    nowAt:
+  - name: Dr. Denis Krompaß
+    website: https://www.linkedin.com/in/denis-krompa%C3%9F-0669b191/
+    type: PhD
+    year: 2015
+    nowAt:
+  - name: Dr. 
+    website: 
+    type: PhD
+    year: 
+    nowAt:
+  - name: Dr. 
+    website: 
+    type: PhD
+    year: 
+    nowAt:
+  - name: Dr. 
+    website: 
+    type: PhD
+    year: 
+    nowAt:
+  - name: Dr. 
+    website: 
+    type: PhD
+    year: 
+    nowAt:
+  - name: Dr. 
+    website: 
+    type: PhD
+    year: 
+    nowAt:
+  - name: Dr. 
+    website: 
+    type: PhD
+    year: 
+    nowAt:
   - name: Dr. 
     website: 
     type: PhD
