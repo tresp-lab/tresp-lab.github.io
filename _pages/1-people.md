@@ -33,7 +33,7 @@ alumni:
     website: https://www.linkedin.com/in/sahandsharifzadeh/?locale=de_DE
     type: PhD
     year: 2022
-    nowAt: Google Deepmind
+    nowAt: Google Deepmind/ UK
   - name: Dr. Ahmed Frikha
     website: https://www.linkedin.com/in/sahandsharifzadeh/?locale=de_DE
     type: PhD
@@ -43,12 +43,12 @@ alumni:
     website: https://sites.google.com/view/zhenhan/home?authuser=0
     type: PhD
     year: 2022
-    nowAt: Amazon
+    nowAt: Amazon/ UK
   - name: Dr. Jindong Gu
     website: https://jindonggu.github.io/
     type: PhD
     year: 2022
-    nowAt: University of Oxford & Google Research
+    nowAt: University of Oxford & Google Research/ UK
   - name: Dr. Max Berrendorf
     website: https://www.dbs.ifi.lmu.de/cms/personen/mitarbeiter/berrendorf/index.html
     type: PhD
@@ -58,7 +58,22 @@ alumni:
     website: https://zhiliangwu.github.io/
     type: PhD
     year: 2022
-    nowAt: Siemens AG
+    nowAt: Siemens AG, Munich
+  - name: Dr. Marcel Hildebrandt
+    website: https://www.linkedin.com/in/marcel-hildebrandt-523805114/
+    type: PhD
+    year: 2021
+    nowAt: Siemens AG, Munich
+  - name: Dr. Rui Zhao
+    website: https://ruizhaogit.github.io/
+    type: PhD
+    year: 2020
+    nowAt: Tencent AI Lab & Robotics X/ China
+  - name: Dr. Yunpu Ma
+    website: https://www.dbs.ifi.lmu.de/cms/personen/mitarbeiter/ma/index.html
+    type: PhD
+    year: 2020
+    nowAt: 
 ---
 
 <div class="projects">
