@@ -129,10 +129,50 @@ alumni:
     type: LMU
     year: 2007
     nowAt:
-  - name: Dr. 
-    website: 
+  - name: Dr. Shipeng Yu
+    website: https://www.dbs.ifi.lmu.de/~spyu/
     type: LMU
-    year: 
+    year: 2006
+    nowAt:
+  - name: Dr. Kai Yu
+    website: https://www.dbs.ifi.lmu.de/~yu_k/
+    type: LMU
+    year: 2004
+    nowAt:
+  - name: Dr. Anton Schwaighofer
+    website: http://research.microsoft.com/users/antonsc/
+    type: U of Graz
+    year: 2003
+    nowAt:
+  - name: Dr. Harald Steck
+    website: https://www.linkedin.com/in/harald-steck-130391b7/
+    type: TUM
+    year: 2001
+    nowAt:
+  - name: Dr. Jaakko Hollmen
+    website: https://www.digitalfutures.kth.se/person/jaakko-hollmen/
+    type: Helsinki U. of T.
+    year: 2000
+    nowAt:
+  - name: Dr. Thomas Briegel
+    website: https://www.xing.com/profile/Thomas_Briegel
+    type: TUM
+    year: 1999
+    nowAt:
+  - name: Dr. Ralph Neuneier
+    website: https://www.xing.com/profile/Thomas_Briegel
+    type: T.U. of Kaiserslautern
+    year: 1998
+    nowAt:
+  - name: Dr. Reimar Hofmann
+    website: https://www.xing.com/profile/Thomas_Briegel
+    type: TUM
+    year: 1997
+    nowAt:
+  - name: Dr. Jürgen Hollatz
+    website: https://www.linkedin.com/in/juergen-hollatz-9552b917a/
+    type: TUM
+    year: 1992
     nowAt: 
 ---
 
