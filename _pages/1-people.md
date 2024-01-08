@@ -34,6 +34,11 @@ alumni:
     type: PhD
     year: 2022
     nowAt: Google Deepmind
+  - name: Dr. Ahmed Frikha
+    website: https://www.linkedin.com/in/sahandsharifzadeh/?locale=de_DE
+    type: PhD
+    year: 2022
+    nowAt: 
   - name: Dr. Zhen Han
     website: https://sites.google.com/view/zhenhan/home?authuser=0
     type: PhD
@@ -44,7 +49,16 @@ alumni:
     type: PhD
     year: 2022
     nowAt: University of Oxford & Google Research
-  
+  - name: Dr. Max Berrendorf
+    website: https://www.dbs.ifi.lmu.de/cms/personen/mitarbeiter/berrendorf/index.html
+    type: PhD
+    year: 2022
+    nowAt: 
+  - name: Dr. Zhiliang Wu
+    website: https://zhiliangwu.github.io/
+    type: PhD
+    year: 2022
+    nowAt: Siemens AG
 ---
 
 <div class="projects">
