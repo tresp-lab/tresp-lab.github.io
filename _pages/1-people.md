@@ -244,5 +244,4 @@ TBD
 <!--     , now at {{person.nowAt}} -->
   {%- endfor -%}
   </ul>
-  TBD
 </div>
