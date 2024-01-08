@@ -240,7 +240,8 @@ TBD
             {%- else -%}
               {{person.name}}
         {%- endif -%}
-        ({{person.type}}, {{person.year}}), now at {{person.nowAt}}</li>
+        ({{person.type}}, {{person.year}})</li>
+<!--     , now at {{person.nowAt}} -->
   {%- endfor -%}
   </ul>
   TBD
