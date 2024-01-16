@@ -12,9 +12,9 @@ profile:
 carousels:
   - images:
     - image: /assets/img/carousel/demo_1.jpg
-      text: text demo 1  
+      text: 
     - image: /assets/img/carousel/demo_2.jpg
-      text: text demo 2
+      text:
 
 
 news: true  # includes a list of news items
