@@ -11,6 +11,8 @@ profile:
 
 carousels:
   - images:
+    - image: /assets/img/carousel/group4.png
+      text:
     - image: /assets/img/carousel/group1.jpeg
       text: 
     - image: /assets/img/carousel/group2.jpeg
