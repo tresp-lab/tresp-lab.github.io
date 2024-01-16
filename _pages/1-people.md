@@ -15,12 +15,20 @@ staff:
       picture: people/tresp.jpeg
     - name: Yunpu Ma
       description: Postdoc
-      website: https://www.dbs.ifi.lmu.de/cms/personen/mitarbeiter/ma/index.html
-      picture: people/yunpu-ma.jpg
-    - name: Hang Li
+      website: https://yunpuma.github.io/
+      picture: people/yunpu.jpg
+    - name: Zifeng Ding
       description: PhD Student
-      website: https://hangligit.github.io/
-      picture: people/demo.jpg
+      website: https://zifengding.github.io/
+      picture: people/zifeng.jpg
+    - name: Jingpei Wu
+      description: PhD Student
+      website:
+      picture: people/jingpei.png
+    - name: Haukun Chen
+      description: PhD Student
+      website: https://haokunchen245.github.io/site/
+      picture: people/haokun.jpg
     - name: Shuo Chen
       description: PhD Student (2023 - Present)
       website: https://chenxshuo.github.io
