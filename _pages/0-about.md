@@ -11,9 +11,9 @@ profile:
 
 carousels:
   - images:
-    - image: /assets/img/carousel/demo_1.jpg
+    - image: /assets/img/carousel/group1.jpeg
       text: 
-    - image: /assets/img/carousel/demo_2.jpg
+    - image: /assets/img/carousel/group2.jpeg
       text:
 
 

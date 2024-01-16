@@ -17,23 +17,64 @@ staff:
       description: Postdoc
       website: https://yunpuma.github.io/
       picture: people/yunpu.jpg
+    - name: Yushan Liu
+      description: Phd Student
+      website: 
+      picture: 
+    - name: Hang Li
+      description: Phd Student
+      website: https://hangligit.github.io/
+      picture: 
+    - name: Thomas Decker
+      description: Phd Student
+      website: 
+      picture: 
+    - name: Aneta Koleva
+      description: Phd Student
+      website: 
+      picture: 
     - name: Zifeng Ding
       description: PhD Student
       website: https://zifengding.github.io/
-      picture: people/zifeng.jpg
-    - name: Jingpei Wu
-      description: PhD Student
-      website:
-      picture: people/jingpei.png
+      picture: people/zifeng.png
+    - name: Gengyuan Zhang
+      description: Phd Student
+      website: 
+      picture: 
+    - name: Yao Zhang
+      description: Phd Student
+      website: 
+      picture: 
     - name: Haukun Chen
       description: PhD Student
       website: https://haokunchen245.github.io/site/
       picture: people/haokun.jpg
+    - name: Ruotong Liao
+      description: PhD Student
+      website: 
+      picture: 
+    - name: Bailan He
+      description: PhD Student
+      website: 
+      picture: 
     - name: Shuo Chen
-      description: PhD Student (2023 - Present)
+      description: PhD Student
       website: https://chenxshuo.github.io
       picture: people/shuo.png
       interests: multimodal models, robustness, vision-language models
+    - name: Jingpei Wu
+      description: PhD Student
+      website:
+      picture: people/jingpei.png
+    - name: Yize Sun
+      description: PhD Student
+      website:
+      picture: 
+    - name: Tong Liu
+      description: PhD Student
+      website:
+      picture: 
+    
 alumni:
   title: Alumni
   people:
@@ -186,7 +227,6 @@ alumni:
 
 <div class="projects">
 
-TBD
 
 <h2 class="category">{{page.staff.title}}</h2>
   <div class="grid">
@@ -195,7 +235,7 @@ TBD
           {% if person.picture -%}
             <img class=" rounded-circle" src="/assets/img/{{person.picture}}" alt="Portrait ({{person.name}})" width="auto" height="auto">
           {%- else -%}
-            <img class=" rounded-circle" src="/assets/img/prof_pic.jpg" alt="Portrait ({{person.name}})" width="auto" height="auto">
+            <img class=" rounded-circle" src="/assets/img/tresp-lab.png" alt="Portrait ({{person.name}})" width="auto" height="auto">
           {%- endif -%}
         <div class="card-body">
           <!-- <h2 class="card-title">{{person.name}}</h2> -->
