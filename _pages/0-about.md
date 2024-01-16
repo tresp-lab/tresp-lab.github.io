@@ -15,6 +15,8 @@ carousels:
       text: 
     - image: /assets/img/carousel/group2.jpeg
       text:
+    - image: /assets/img/carousel/group3.jpeg
+      text:
 
 
 news: true  # includes a list of news items
