@@ -17,6 +17,10 @@ staff:
       description: Postdoc
       website: https://yunpuma.github.io/
       picture: people/yunpu.jpg
+    - name: Rajat Koner
+      description: Phd Student
+      website: 
+      picture: 
     - name: Yushan Liu
       description: Phd Student
       website: 
