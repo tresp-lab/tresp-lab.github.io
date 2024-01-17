@@ -13,11 +13,9 @@ carousels:
   - images:
     - image: /assets/img/carousel/group4.png
       text:
-    - image: /assets/img/carousel/group1.jpeg
-      text: 
-    - image: /assets/img/carousel/group2.jpeg
+    - image: /assets/img/carousel/group5.png
       text:
-    - image: /assets/img/carousel/group3.jpeg
+    - image: /assets/img/carousel/group6.png
       text:
 
 
