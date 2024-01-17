@@ -73,7 +73,7 @@ staff:
     - name: Yize Sun
       description: PhD Student
       website: https://www.linkedin.com/in/yize-sun-b0449991/
-      picture: people/yize.jpg
+      picture: people/yize_sun.jpg
     - name: Tong Liu
       description: PhD Student
       website:
