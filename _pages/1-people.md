@@ -28,7 +28,7 @@ staff:
     - name: Hang Li
       description: Phd Student
       website: https://hangligit.github.io/
-      picture: 
+      picture: people/hangli.jpg
     - name: Thomas Decker
       description: Phd Student
       website: 
