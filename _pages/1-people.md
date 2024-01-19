@@ -43,8 +43,8 @@ staff:
       picture: people/zifeng.png
     - name: Gengyuan Zhang
       description: Phd Student
-      website: 
-      picture: 
+      website: https://gengyuanmax.github.io/
+      picture: people/gengyuan.png
     - name: Yao Zhang
       description: Phd Student
       website: 
