@@ -6,4 +6,4 @@ inline: false
 related_posts: false
 ---
 
-We are co-organizing an ELLIS workshop at Oberwolfach. More information can be found [here](https://tresp-lab.github.io/ellis-ws/)
+We are co-organizing an ELLIS workshop at Oberwolfach. More information can be found [here](https://ellis-ssiml.github.io)
