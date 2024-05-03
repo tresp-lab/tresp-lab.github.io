@@ -32,5 +32,5 @@ social: false  # includes social icons at the bottom of the page
 ### About Us 
 
 
-Our team has a long tradition in machine learning for relational structured domains. Currently our focus is on learning with (temporal) knowledge graphs, where we also explore quantum computing solutions.  Our interest in cognitive AI was the reason that we are increasingly exploring multimodal data, such as texts, images, and videos.  Foundation models are becoming important for our work.  Our ultimate goal is to understand human level intelligence. 
+Our team has a long tradition in machine learning for relational structured domains. Our interest in cognitive AI is the reason that we are increasingly exploring **multimodal data**, (e.g., texts, images, and videos), and **multimodal models**. We also focus on learning with (temporal) knowledge graphs and exploring quantum computing solutions.  Foundation models are becoming important for our work.  Our ultimate goal is to understand human-level intelligence. 
 
