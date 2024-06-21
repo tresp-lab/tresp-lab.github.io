@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We are organizing a ELISE workshop in Helsinki
+title: We are organizing an ELISE workshop in Helsinki
 date: 2024-06-20 
 inline: false
 related_posts: false
