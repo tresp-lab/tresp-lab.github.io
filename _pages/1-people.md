@@ -55,7 +55,7 @@ staff:
       picture: people/haokun.jpg
     - name: Ruotong Liao
       description: PhD Student
-      website: 
+      website: https://mayhugotong.github.io/
       picture: 
     - name: Bailan He
       description: PhD Student
