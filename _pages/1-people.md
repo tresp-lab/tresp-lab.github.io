@@ -21,10 +21,6 @@ staff:
       description: Phd Student
       website: 
       picture: 
-    - name: Yushan Liu
-      description: Phd Student
-      website: 
-      picture: 
     - name: Hang Li
       description: Phd Student
       website: https://hangligit.github.io/
@@ -82,6 +78,9 @@ staff:
 alumni:
   title: Alumni
   people:
+  - name: Dr. Yushan Liu
+    type: LMU
+    year: 2024
   - name: Dr. Sahand Sharifzadeh
     website: https://www.linkedin.com/in/sahandsharifzadeh/?locale=de_DE
     type: LMU
