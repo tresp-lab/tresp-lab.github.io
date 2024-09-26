@@ -74,6 +74,9 @@ staff:
       description: PhD Student
       website:
       picture: 
+    - name: Jinhe Bi
+      description: PhD Student
+      website: https://www.linkedin.com/in/jinhe-bi-2a4403241/
     
 alumni:
   title: Alumni
