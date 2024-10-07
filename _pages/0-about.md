@@ -32,4 +32,6 @@ social: false  # includes social icons at the bottom of the page
 ### About Us 
 
 
-Our team has a long-standing tradition in machine learning for relational structured domains. We particularly focus on **(temporal) knowledge graphs** and are currently investigating synergies with large language models. Driven by our interest in cognitive AI, we are increasingly exploring **multimodal foundation models**. Our ultimate goal is to achieve a better understanding of human-level intelligence.
+Our team has a long-standing tradition in machine learning for relational structured domains. We particularly focus on **(temporal) knowledge graphs** and are currently investigating synergies with large language models. Driven by our interest in cognitive AI, we are increasingly exploring **multimodal foundation models**. Our ultimate goal is to achieve a better understanding of human-level intelligence. 
+
+*We are always looking for motivated students to conduct guided research and thesis. Please check [Openings](https://tresp-lab.github.io/openings/) for more details!*
