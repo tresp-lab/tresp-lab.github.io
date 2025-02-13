@@ -52,7 +52,7 @@ staff:
     - name: Ruotong Liao
       description: PhD Student
       website: https://mayhugotong.github.io/
-      picture: 
+      picture: people/ruotong.jpg
     - name: Bailan He
       description: PhD Student
       website: 
