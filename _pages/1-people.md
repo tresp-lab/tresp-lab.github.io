@@ -33,10 +33,6 @@ staff:
       description: Phd Student
       website: 
       picture: 
-    - name: Zifeng Ding
-      description: PhD Student
-      website: https://zifengding.github.io/
-      picture: people/zifeng.png
     - name: Gengyuan Zhang
       description: Phd Student
       website: https://gengyuanmax.github.io/
@@ -81,6 +77,10 @@ staff:
 alumni:
   title: Alumni
   people:
+  - name: Dr. Zifeng Ding
+    website: https://zifengding.github.io/
+    type: LMU
+    year: 2025
   - name: Dr. Yushan Liu
     type: LMU
     year: 2024
