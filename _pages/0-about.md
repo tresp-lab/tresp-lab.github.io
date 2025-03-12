@@ -40,4 +40,4 @@ By enhancing multimodal perception and reasoning, **we strive to create AI that 
 
 <br>
 
-**TRESP Stands for **T**rustworthy-**R**esponsible-**E**thical-**S**ustainable-**P**acifist (TRESP)*
+*TRESP Stands for **T**rustworthy-**R**esponsible-**E**thical-**S**ustainable-**P**acifist (TRESP)*
