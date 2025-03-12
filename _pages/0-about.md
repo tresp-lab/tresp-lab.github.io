@@ -29,7 +29,7 @@ social: false  # includes social icons at the bottom of the page
 
 <br>
 
-# Pushing the Boundaries: Advancing AI for a Peaceful and Humane Future
+### Pushing the Boundaries: Advancing AI for a Peaceful and Humane Future
 
 At Tresp Lab, we push the limits of AI by developing advanced representation learning techniques that enable machines to understand and reason about the world in a structured and interpretable way. Our research spans knowledge graphs, multimodal learning, and AI-driven understanding, allowing systems to seamlessly integrate diverse information sources—text, images, and video—into a comprehensive and actionable model of complex environments.
 
