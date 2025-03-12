@@ -29,12 +29,10 @@ social: false  # includes social icons at the bottom of the page
 
 <br>
 
-### Pushing the Boundaries: Advancing AI for a Peaceful and Humane Future
+#### Pushing the Boundaries: Advancing AI for a Peaceful and Humane Future
 
 At Tresp Lab, we push the limits of AI by developing advanced representation learning techniques that enable machines to understand and reason about the world in a structured and interpretable way. Our research spans knowledge graphs, multimodal learning, and AI-driven understanding, allowing systems to seamlessly integrate diverse information sources—text, images, and video—into a comprehensive and actionable model of complex environments.
 
-By enhancing multimodal perception and reasoning, we strive to create AI that not only grasps human intentions and the physical world but does so in alignment with human values. Our work prioritizes robustness, trustworthiness, and ethical AI development, ensuring these technologies foster a more peaceful, transparent, and humane future.
-
-Our team has a long-standing tradition in machine learning for relational structured domains. We particularly focus on **(temporal) knowledge graphs** and are currently investigating synergies with large language models. Driven by our interest in cognitive AI, we are increasingly exploring **multimodal foundation models**. Our ultimate goal is to achieve a better understanding of human-level intelligence. 
+By enhancing multimodal perception and reasoning, **we strive to create AI that not only grasps human intentions and the physical world but does so in alignment with human values**. Our work prioritizes robustness, trustworthiness, and ethical AI development, ensuring these technologies foster a more **peaceful, transparent, and humane future**.
 
 *We are always looking for motivated students to conduct guided research and thesis. Please check [Openings](https://tresp-lab.github.io/openings/) for more details!*
