@@ -38,6 +38,6 @@ By enhancing multimodal perception and reasoning, **we strive to create AI that 
 *We are always looking for motivated students to conduct guided research and thesis. Please check [Openings](https://tresp-lab.github.io/openings/) for more details!*
 
 
+<br>
 
-
-*TRESP Stands for ***T**rustworthy-**R**esponsible-**E**thical-**S**ustainable-**P**acifist (TRESP)*
+**TRESP Stands for **T**rustworthy-**R**esponsible-**E**thical-**S**ustainable-**P**acifist (TRESP)*
