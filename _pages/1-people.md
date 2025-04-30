@@ -76,6 +76,7 @@ staff:
     - name: Shengyun Si 
       description: PhD Student
       website: https://shengyun-si.github.io/
+      picture: people/shengyun.jpeg
     
 alumni:
   title: Alumni
