@@ -14,7 +14,7 @@ staff:
       website: https://www.dbs.ifi.lmu.de/~tresp/
       picture: people/tresp.jpeg
     - name: Yunpu Ma
-      description: Postdoc
+      description: Visiting Assistant Professor
       website: https://yunpuma.github.io/
       picture: people/yunpu.jpg
     - name: Rajat Koner
