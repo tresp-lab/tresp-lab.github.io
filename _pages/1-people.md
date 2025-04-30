@@ -73,10 +73,6 @@ staff:
     - name: Jinhe Bi
       description: PhD Student
       website: https://www.linkedin.com/in/jinhe-bi-2a4403241/
-    - name: Shengyun Si 
-      description: PhD Student
-      website: https://shengyun-si.github.io/
-      picture: people/shengyun.jpeg
     
 alumni:
   title: Alumni
