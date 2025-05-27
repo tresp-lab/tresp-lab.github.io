@@ -73,6 +73,13 @@ staff:
     - name: Jinhe Bi
       description: PhD Student
       website: https://www.linkedin.com/in/jinhe-bi-2a4403241/
+    - name: Sikuan Yan
+      description: PhD Student
+      picture: yansikuan.jpeg
+    - name: Yakov Golovanev
+      description: PhD Student
+      picture: Iakov.jpg
+      website: https://www.linkedin.com/in/yakov-golovanev/
     
 alumni:
   title: Alumni
