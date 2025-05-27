@@ -68,17 +68,17 @@ staff:
       picture: people/yize_sun.jpg
     - name: Tong Liu
       description: PhD Student
-      website:
+      website: https://tongliu-github.github.io/
       picture: 
     - name: Jinhe Bi
       description: PhD Student
       website: https://www.linkedin.com/in/jinhe-bi-2a4403241/
     - name: Sikuan Yan
       description: PhD Student
-      picture: yansikuan.jpeg
+      picture: people/yansikuan.jpeg
     - name: Yakov Golovanev
       description: PhD Student
-      picture: Iakov.jpg
+      picture: people/Iakov.jpg
       website: https://www.linkedin.com/in/yakov-golovanev/
     
 alumni:
