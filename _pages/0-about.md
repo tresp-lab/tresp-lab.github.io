@@ -5,18 +5,21 @@ permalink: /
 subtitle: Welcome! We are the TRESP* Lab at the Institiute of Informatics at LMU Munich directed by Prof. Dr. Volker Tresp. 
 profile:
   align: right
-  image: tresp-lab.png
+  image: logo-5.png
   image_circular: True # crops the image to make it circular
   more_info: 
 
 carousels:
   - images:
+    - image: /assets/img/carousel/group7.jpeg
+      text:
     - image: /assets/img/carousel/group4.png
       text:
     - image: /assets/img/carousel/group5.png
       text:
     - image: /assets/img/carousel/group6.png
       text:
+    
 
 
 news: true  # includes a list of news items
@@ -40,4 +43,4 @@ By enhancing multimodal perception and reasoning, **we strive to create AI that 
 
 <br>
 
-*TRESP Stands for **T**rustworthy-**R**esponsible-**E**thical-**S**ustainable-**P**eaceful (TRESP)*
+*\*TRESP Stands for **T**rustworthy-**R**esponsible-**E**thical-**S**ustainable-**P**eaceful (TRESP)*

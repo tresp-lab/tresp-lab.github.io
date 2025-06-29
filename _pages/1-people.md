@@ -73,6 +73,10 @@ staff:
     - name: Jinhe Bi
       description: PhD Student
       website: https://www.linkedin.com/in/jinhe-bi-2a4403241/
+    - name: Martino Pulici
+      description: PhD Student
+      picture:
+      website: https://www.linkedin.com/in/martino-pulici
     - name: Sikuan Yan
       description: PhD Student
       picture: people/yansikuan.jpeg
@@ -80,6 +84,11 @@ staff:
       description: PhD Student
       picture: people/Iakov.jpg
       website: https://www.linkedin.com/in/yakov-golovanev/
+    - name: Ihab Ahmed
+      description: PhD Student
+      picture: 
+      website: https://www.linkedin.com/in/ehab42/
+    
     
 alumni:
   title: Alumni
@@ -246,9 +255,9 @@ alumni:
     {%- for person in page.staff.people -%}
         <article class="grid-item card">
           {% if person.picture -%}
-            <img class=" rounded-circle" src="/assets/img/{{person.picture}}" alt="Portrait ({{person.name}})" width="auto" height="auto">
+            <img class=" rounded-circle" src="/assets/img/{{person.picture}}" alt="Portrait ({{person.name}})" width="200" height="240">
           {%- else -%}
-            <img class=" rounded-circle" src="/assets/img/tresp-lab.png" alt="Portrait ({{person.name}})" width="auto" height="auto">
+            <img class=" rounded-circle" src="/assets/img/logo-P.png" alt="Portrait ({{person.name}})" width="200" height="240">
           {%- endif -%}
         <div class="card-body">
           <!-- <h2 class="card-title">{{person.name}}</h2> -->
