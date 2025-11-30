@@ -89,6 +89,10 @@ staff:
       description: PhD Student
       picture: 
       website: https://www.linkedin.com/in/ehab42/
+    - name: Zefeng Wang 
+      description: PhD Student
+      picture: 
+      website: https://www.linkedin.com/in/zefeng-wang-165253234
     
     
 alumni:
