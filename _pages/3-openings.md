@@ -24,8 +24,9 @@ This project focuses on building the next generation of trustworthy clinical AIâ
 Supervisors: [Prof. Volker Tresp](https://tresp-lab.github.io/), [Dr. Jindong Gu (Oxford)](https://jindonggu.github.io/)
 
 - [Application Portal](https://mlcare.webs.tsc.uc3m.es/projects-and-fellows/dc5/)
-- [More Information](https://mlcare.webs.tsc.uc3m.es/projects-and-fellows/dc5/)
+- [More Information](https://mlcare.webs.tsc.uc3m.es/wp-content/uploads/sites/59/2025/11/DC5-LMU-Tresp-Lab-MLCARE_revised.pdf)
 
+*Note: For this project, the applicants **should not** have resided or carried out their main activity (work, studies, etc.) in the country of the recruiting beneficiary for more than 12 months in the 36 months immediately before the recruitment date â€” unless as part of a compulsory national service or a procedurefor obtaining refugee status under the Geneva Convention.*
 
 
 ## Thesis Opportunities 
