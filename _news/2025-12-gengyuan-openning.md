@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We are looking for HiWis on the research project on Surgical Video Understanding.
-date: 2025-03-21
+date: 2025-12-01
 inline: false
 related_posts: false
 ---
