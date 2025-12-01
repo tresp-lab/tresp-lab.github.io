@@ -43,5 +43,5 @@ Our research lab **is always actively looking for** motivated prospective studen
 ### 1. HiWi positions (20h/week) on Surgical Video Understanding 
 We have available HiWi positions for research/engineering projects on Surgical Video Understanding, involving topics including surgical video modelling, multimodal LLM, and agentic models. 
 HiWi positions are opened for master students enrolled at German universities and hired by the University with 20h/week contract.
-Feel free to contact and apply by emailing your cv and transcript to **gengyuan.zhang[at]lmu[dot]de**.
+Feel free to contact and apply by emailing your cv and transcript to **[Gengyuan Zhang via zhang{at}dbs[dot]ifi[dot]lmu[dot]de](mailto:zhang@dbs.ifi.lmu.de)**.
 
