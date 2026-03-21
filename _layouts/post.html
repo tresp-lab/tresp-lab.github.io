@@ -15,7 +15,7 @@ layout: default
 
 {% assign url_beginning = page.url | slice: 0, 6 %}
 
-<div class="post">
+<div class="post{% if url_beginning == '/news/' %} post--news-entry{% endif %}">
 
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>

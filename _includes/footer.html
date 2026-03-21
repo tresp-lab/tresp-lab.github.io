@@ -14,8 +14,14 @@
     </footer>
     {%- else -%}
     <footer class="sticky-bottom mt-5">
+      <div class="footer_content">
+        <div id="contact" class="contact_information">
+          <div class="footer_title">TRESP Lab</div>
+          <p>Oettingenstrasse 67<br>80538 Munich Germany<br>tresplab@gmail.com</p>
+        </div>
+        <img class="footer_logo" src="{{'/assets/img/LMU1.png'| relative_url}}" alt="LMU logo" />
+      </div>
       <div class="container">
-        <center>
         &copy; Copyright {{ site.time | date: '%Y' }} {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}. {{ site.footer_text }}
         {%- if site.impressum_path -%}
         <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
@@ -23,7 +29,6 @@
         {%- if site.last_updated -%}
         Last updated: {{ "now" | date: '%B %d, %Y' }}.
         {%- endif %}
-        </center> 
       </div>
     </footer>
     {%- endif %}

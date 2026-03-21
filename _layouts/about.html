@@ -3,14 +3,26 @@ layout: default
 ---
 
 <!-- about.html -->
+    <section class="home-hero">
+      <div class="hero_title">
+        <h1>Pushing the Boundaries</h1>
+        <h2>Advancing AI for a Peaceful and Humane Future</h2>
+      </div>
+      <p>
+        We strive to create AI that not only grasps human intentions and the physical world but does so in alignment with human values. Our work prioritizes robustness, trustworthiness, and ethical AI development, ensuring these technologies foster a more peaceful and humane future.
+      </p>
+    </section>
+
       <div class="post">
         <header class="post-header">
+          {%- comment -%}
           <h1 class="post-title">
             <b>
             {% if site.title == "blank" -%}<span class="font-weight-bold"> <b>{{ site.first_name }}</b></span> <b>{{ site.middle_name }} {{ site.last_name }}</b>{%- else -%}{{ site.title }}{%- endif %}
             </b>
           </h1>
           <p class="desc">{{ page.subtitle }}</p>
+          {%- endcomment -%}
         </header>
 
         <article>
@@ -44,11 +56,14 @@ layout: default
           </div>
 
           {% include carousel.html height="50" unit="%" duration="7" number="1" %}
+          
+          <!-- Home feature cards -->
+          {% include home_features_cards.html %}
 
           <!-- News -->
           {% if page.news and site.announcements.enabled -%}
-            <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
-            {%- include news.html limit=true %}
+            <h2 class="news-section-title"><a href="{{ '/news/' | relative_url }}" style="color: inherit;">News</a></h2>
+            {%- include news.html limit=true homepage=true %}
           {%- endif %}
 
           <!-- Latest posts -->

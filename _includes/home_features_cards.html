@@ -1,0 +1,13 @@
+{% if page.feature_cards %}
+<section class="home-feature-cards">
+  {% for card in page.feature_cards %}
+    <article class="home-feature-card">
+      <h3 class="home-feature-card__title">{{ card.title }}</h3>
+      <div class="home-feature-card__body">{{ card.body | markdownify }}</div>
+      <a class="home-feature-card__button" href="{{ card.button_url | relative_url }}">
+        {{ card.button_label }}
+      </a>
+    </article>
+  {% endfor %}
+</section>
+{% endif %}

@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /openings/
-title: Openings
+permalink: /opportunities/
+title: Opportunities
 description: Opening positions in our lab.
 nav: true
 nav_order: 3

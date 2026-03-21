@@ -6,6 +6,7 @@ body {
   padding-bottom: 70px;
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
+  font-family: "Poppins", sans-serif;
 
   h1, h2, h3, h4, h5, h6 {
     scroll-margin-top: 66px;
@@ -34,6 +35,30 @@ body.sticky-bottom-footer {
 }
 
 // TODO: redefine content layout.
+.content-wrapper {
+  width: 100%;
+  max-width: 1440px;
+  margin: 0 auto;
+  padding-left: 26px;
+  padding-right: 26px;
+  box-sizing: border-box;
+}
+
+@media (min-width: 768px) {
+  .content-wrapper {
+    padding-left: 90px;
+    padding-right: 90px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .content-wrapper {
+    padding-left: 124px;
+    padding-right: 124px;
+  }
+}
+
+
 
 
 /******************************************************************************

@@ -2,12 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Welcome! We are the TRESP* Lab at the Institiute of Informatics at LMU Munich directed by Prof. Dr. Volker Tresp. 
-profile:
-  align: right
-  image: logo-5.png
-  image_circular: True # crops the image to make it circular
-  more_info: 
+subtitle: Welcome! we are the TRESP* Lab at the Institiute of Informatics at LMU Munich directed by Prof. Dr. Volker Tresp. 
 
 carousels:
   - images:
@@ -20,6 +15,21 @@ carousels:
     - image: /assets/img/carousel/group6.png
       text:
     
+feature_cards:
+  - title: Our Team
+    body: |
+      We are the TRESP Lab at the Institute of Informatics at LMU Munich directed by Prof. Dr. Volker Tresp. TRESP stands for Trustworthy, Responsible, Ethical, Substainable, Peaceful. 
+
+      We push the limits of AI by developing advanced representation learning techniques that enable machines to understand and reason about the world in a structured and interpretable way.
+    button_label: SEE MORE
+    button_url: /people/
+  - title: Research Topics
+    body:  |
+      Our research spans knowledge graphs, multimodal learning, and AI-driven understanding, allowing systems to seamlessly integrate diverse information sources - text, images, and video - into a comprehensive and actionable model of complex environments.
+      
+      We are always looking for motivated students to conduct guided research and thesis.
+    button_label: JOIN US
+    button_url: /opportunities/
 
 
 news: true  # includes a list of news items
@@ -30,17 +40,4 @@ social: false  # includes social icons at the bottom of the page
 
 
 
-<br>
 
-#### Pushing the Boundaries: Advancing AI for a Peaceful and Humane Future
-
-At TRESP Lab, we push the limits of AI by developing advanced representation learning techniques that enable machines to understand and reason about the world in a structured and interpretable way. Our research spans knowledge graphs, multimodal learning, and AI-driven understanding, allowing systems to seamlessly integrate diverse information sources—text, images, and video—into a comprehensive and actionable model of complex environments.
-
-By enhancing multimodal perception and reasoning, **we strive to create AI that not only grasps human intentions and the physical world but does so in alignment with human values**. Our work prioritizes robustness, trustworthiness, and ethical AI development, ensuring these technologies foster a more **peaceful and humane future**.
-
-*We are always looking for motivated students to conduct guided research and thesis. Please check [Openings](https://tresp-lab.github.io/openings/) for more details!*
-
-
-<br>
-
-*\*TRESP Stands for **T**rustworthy-**R**esponsible-**E**thical-**S**ustainable-**P**eaceful (TRESP)*

@@ -10,7 +10,7 @@ staff:
   title: Team Members
   people:
     - name: Volker Tresp
-      description: Prof. Dr. and Head of Tresp Lab
+      description: Prof. Dr. and Head of TRESP Lab
       website: https://www.dbs.ifi.lmu.de/~tresp/
       picture: people/tresp.jpeg
     - name: Yunpu Ma
@@ -252,15 +252,15 @@ alumni:
 
 
 <h2 class="category">{{page.staff.title}}</h2>
-  <div class="grid">
+  <div class="people-grid">
     {%- for person in page.staff.people -%}
-        <article class="grid-item card">
+        <article class="grid-item card" style="padding-top: 1.5rem;" >
           {% if person.picture -%}
-            <img class=" rounded-circle" src="/assets/img/{{person.picture}}" alt="Portrait ({{person.name}})" width="200" height="240">
+            <img class=" rounded-circle" src="/assets/img/{{person.picture}}" alt="Portrait ({{person.name}})">
           {%- else -%}
-            <img class=" rounded-circle" src="/assets/img/logo-P.png" alt="Portrait ({{person.name}})" width="200" height="240">
+            <img class=" rounded-circle" src="/assets/img/logo-P.png" alt="Portrait ({{person.name}})" >
           {%- endif -%}
-        <div class="card-body">
+        <div class="card-body" style = "padding: 20px;">
           <!-- <h2 class="card-title">{{person.name}}</h2> -->
           <h2 class="card-title">
             {% if person.website -%}
@@ -269,7 +269,7 @@ alumni:
               {{person.name}}
             {%- endif -%}
           </h2>
-          <div class="card-text">
+          <div class="card-text" style = "height: 45px;">
             {{person.description}}
             <!-- {{person.interests}} -->
             <!-- <p style="margin-bottom: 0rem;">{{person.description}}</p> 
@@ -303,7 +303,7 @@ alumni:
 
 
 
-  <h2 class="category"> Former Ph.D. Students </h2>
+  <h2 class="category"> Alumni </h2>
   <ul>
   {%- for person in page.alumni.people -%}
     <li>{% if person.website -%}
