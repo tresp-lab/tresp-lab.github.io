@@ -28,15 +28,15 @@ staff:
     - name: Aneta Koleva
       description: Phd Student
       website: https://www.linkedin.com/in/kolevaa/
-      picture: 
+      picture: people/aneta-koleva.jpeg
     - name: Gengyuan Zhang
       description: Phd Student
       website: https://gengyuanmax.github.io/
-      picture: people/gengyuan.png
+      picture: people/gengyuan.jpeg
     - name: Yao Zhang
       description: Phd Student
       website: https://yaoz720.github.io/
-      picture: 
+      picture: people/zhangyao.jpg
     - name: Ruotong Liao
       description: PhD Student
       website: https://mayhugotong.github.io/
@@ -44,7 +44,7 @@ staff:
     - name: Bailan He
       description: PhD Student
       website: https://bailanhe.github.io/
-      picture: 
+      picture: people/bailan_he.webp
     - name: Shuo Chen
       description: PhD Student
       website: https://chenxshuo.github.io
@@ -61,13 +61,14 @@ staff:
     - name: Tong Liu
       description: PhD Student
       website: https://tongliu-github.github.io/
-      picture: 
+      picture: people/tong-liu.jpg
     - name: Jinhe Bi
       description: PhD Student
       website: https://www.linkedin.com/in/jinhe-bi-2a4403241/
+      picture: people/jinhe-bi.jpeg
     - name: Martino Pulici
       description: PhD Student
-      picture:
+      picture: people/martino-pulici.jpeg
       website: https://www.linkedin.com/in/martino-pulici
     - name: Sikuan Yan
       description: PhD Student
@@ -75,15 +76,15 @@ staff:
       website: https://www.linkedin.com/in/sikuan-yan/
     - name: Yakov Golovanev
       description: PhD Student
-      picture: people/Iakov.jpg
+      picture: people/Iakov.jpeg
       website: https://www.linkedin.com/in/yakov-golovanev/
     - name: Ihab Ahmed
       description: PhD Student
-      picture: 
+      picture: people/ihab.jpeg
       website: https://www.linkedin.com/in/ehab42/
     - name: Zefeng Wang 
       description: PhD Student
-      picture: 
+      picture: people/zefeng.jpeg
       website: https://www.linkedin.com/in/zefeng-wang-165253234
     
     
