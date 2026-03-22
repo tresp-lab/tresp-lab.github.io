@@ -17,21 +17,17 @@ staff:
       description: Dozent 
       website: https://yunpuma.github.io/
       picture: people/yunpu.jpg
-    - name: Rajat Koner
-      description: Phd Student
-      website: 
-      picture: 
     - name: Hang Li
       description: Phd Student
       website: https://hangligit.github.io/
       picture: people/hangli.jpg
     - name: Thomas Decker
       description: Phd Student
-      website: 
+      website: https://scholar.google.com/citations?user=Et8pIioAAAAJ&hl=en
       picture: 
     - name: Aneta Koleva
       description: Phd Student
-      website: 
+      website: https://www.linkedin.com/in/kolevaa/
       picture: 
     - name: Gengyuan Zhang
       description: Phd Student
@@ -39,19 +35,15 @@ staff:
       picture: people/gengyuan.png
     - name: Yao Zhang
       description: Phd Student
-      website: 
+      website: https://yaoz720.github.io/
       picture: 
-    - name: Haukun Chen
-      description: PhD Student
-      website: https://haokunchen245.github.io/site/
-      picture: people/haokun.jpg
     - name: Ruotong Liao
       description: PhD Student
       website: https://mayhugotong.github.io/
       picture: people/ruotong.jpg
     - name: Bailan He
       description: PhD Student
-      website: 
+      website: https://bailanhe.github.io/
       picture: 
     - name: Shuo Chen
       description: PhD Student
@@ -60,7 +52,7 @@ staff:
       interests: multimodal models, robustness, vision-language models
     - name: Jingpei Wu
       description: PhD Student
-      website:
+      website: https://www.linkedin.com/in/jingpeiwu/
       picture: people/jingpei.png
     - name: Yize Sun
       description: PhD Student
@@ -98,11 +90,21 @@ staff:
 alumni:
   title: Alumni
   people:
+  - name: Dr. Haukun Chen
+    description: PhD Student
+    website: https://haokunchen245.github.io/
+    type: LMU 
+    year: 2025
+  - name: Dr. Rajat Koner  
+    website: https://www.linkedin.com/in/rajat-koner/
+    type: LMU 
+    year: 2025
   - name: Dr. Zifeng Ding
     website: https://zifengding.github.io/
     type: LMU
     year: 2025
   - name: Dr. Yushan Liu
+    website: https://scholar.google.com/citations?user=OU8wf5kAAAAJ&hl=de
     type: LMU
     year: 2024
   - name: Dr. Sahand Sharifzadeh
@@ -206,12 +208,12 @@ alumni:
     year: 2007
     nowAt:
   - name: Dr. Shipeng Yu
-    website: https://www.dbs.ifi.lmu.de/~spyu/
+    website: https://www.linkedin.com/in/shipengyu/
     type: LMU
     year: 2006
     nowAt:
   - name: Dr. Kai Yu
-    website: https://www.dbs.ifi.lmu.de/~yu_k/
+    website: https://scholar.google.com/citations?user=y5zkBeMAAAAJ&hl=en
     type: LMU
     year: 2004
     nowAt:
