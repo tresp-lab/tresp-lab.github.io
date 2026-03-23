@@ -12,7 +12,7 @@ staff:
     - name: Volker Tresp
       description: Prof. Dr. and Head of TRESP Lab
       website: https://www.dbs.ifi.lmu.de/~tresp/
-      picture: people/tresp.jpeg
+      picture: people/volker.jpeg
     - name: Yunpu Ma
       description: Dozent 
       website: https://yunpuma.github.io/
