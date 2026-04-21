@@ -86,7 +86,53 @@ staff:
       description: PhD Student
       picture: people/zefeng.jpeg
       website: https://www.linkedin.com/in/zefeng-wang-165253234
-    
+
+academic:
+  title: Affiliation
+  org:
+  - name: MCML
+    website: https://mcml.ai 
+    picture: academic-industry/mcml.png
+  - name: relAI
+    website: https://zuseschoolrelai.de/
+    picture: academic-industry/relai.png
+  - name: MUDS
+    website: https://www.mu-ds.de/
+    picture: academic-industry/muds.png
+  - name: MPI
+    website: https://www.mpi-inf.mpg.de/home
+    picture: academic-industry/mpi.png
+  - name: MLCARE
+    website: https://mlcare.webs.tsc.uc3m.es/
+    picture: academic-industry/mlcare.png
+  - name: METEOR
+    website: https://rtg-meteor.de/
+    picture: academic-industry/meteor.jpeg 
+  - name: ELLIS
+    website: https://ellis.eu/
+    picture: academic-industry/ellis.jpg
+  - name: PLS 
+    website: https://www.plattform-lernende-systeme.de/home-en.html
+    picture: academic-industry/pls.jpg 
+  
+industry:
+  title: Industry Colloborators 
+  org:
+  - name: Bosch
+    website: 
+    picture: academic-industry/bosch.png
+  - name: Siemens 
+    website:  
+    picture: academic-industry/siemens.png 
+  - name: Apple
+    website:
+    picture: academic-industry/apple.png 
+  - name: Huawei 
+    website:
+    picture: academic-industry/huawei.webp 
+  - name: SAP
+    website:
+    picture: academic-industry/sap.png 
     
 alumni:
   title: Alumni
@@ -307,6 +353,67 @@ alumni:
         </article>
     {%- endfor -%}
   </div>
+
+
+  <h2 class="category"> {{page.academic.title}} </h2>
+  <div class="people-grid">
+  {%- for org in page.academic.org -%}
+  <article class="grid-item card" style="padding-top: 1.5rem;" >
+    {% if org.picture -%}
+      <img class="" src="/assets/img/{{org.picture}}" alt="Portrait ({{org.name}})">
+    {%- else -%}
+      <img class=" rounded-circle" src="/assets/img/logo-P.png" alt="Portrait ({{person.name}})" >
+    {%- endif -%}
+  <div class="card-body" style = "padding: 20px;">
+    <h2 class="card-title">
+      {% if org.website -%}
+        <a href="{{org.website}}">{{org.name}}</a>
+      {%- else -%}
+        {{org.name}}
+      {%- endif -%}
+    </h2>
+    </div>
+  </article>
+    <!--<li>{% if org.website -%}
+              <a href="{{org.website}}">{{org.name}} </a>
+            {%- else -%}
+              {{org.name}}
+        {%- endif -%}
+        </li>-->
+  {%- endfor -%}
+  </div>
+  
+  <h2 class="category"> {{page.industry.title}} </h2>
+  <div class="people-grid">
+  {%- for org in page.industry.org -%}
+  <article class="grid-item card" style="padding-top: 1.5rem;" >
+    {% if org.picture -%}
+      <img class="" src="/assets/img/{{org.picture}}" alt="Portrait ({{org.name}})">
+    {%- else -%}
+      <img class="" src="/assets/img/logo-P.png" alt="Portrait ({{person.name}})" >
+    {%- endif -%}
+  <!--<div class="card-body" style = "padding: 20px;">
+    <h2 class="card-title">
+      {% if org.website -%}
+        <a href="{{org.website}}">{{org.name}}</a>
+      {%- else -%}
+        {{org.name}}
+      {%- endif -%}
+    </h2>
+    </div>-->
+  </article>
+    <!--<li>{% if org.website -%}
+              <a href="{{org.website}}">{{org.name}} </a>
+            {%- else -%}
+              {{org.name}}
+        {%- endif -%}
+        </li>-->
+<!--     , now at {{person.nowAt}} -->
+  {%- endfor -%}
+  </div>
+
+
+
 
 
 
