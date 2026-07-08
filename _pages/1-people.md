@@ -151,68 +151,73 @@ alumni:
     website: https://hangligit.github.io/
     type: LMU
     year: 2026
+    nowAt: Meta
   - name: Dr. Haukun Chen
     description: PhD Student
     website: https://haokunchen245.github.io/
     type: LMU 
     year: 2025
+    nowAt: Meta
   - name: Dr. Rajat Koner  
     website: https://www.linkedin.com/in/rajat-koner/
     type: LMU 
     year: 2025
+    nowAt: Amazon
   - name: Dr. Zifeng Ding
     website: https://zifengding.github.io/
     type: LMU
     year: 2025
+    nowAt: Cambridge University; Mina AI
   - name: Dr. Yushan Liu
     website: https://scholar.google.com/citations?user=OU8wf5kAAAAJ&hl=de
     type: LMU
     year: 2024
+    nowAt: Siemens
   - name: Dr. Sahand Sharifzadeh
     website: https://www.linkedin.com/in/sahandsharifzadeh/?locale=de_DE
     type: LMU
     year: 2022
-    nowAt: Google Deepmind/ UK
+    nowAt: Google DeepMind
   - name: Dr. Ahmed Frikha
     website: https://www.linkedin.com/in/sahandsharifzadeh/?locale=de_DE
     type: LMU
     year: 2022
-    nowAt: Huawei, München
+    nowAt: Cerebras Systems
   - name: Dr. Zhen Han
     website: https://sites.google.com/view/zhenhan/home?authuser=0
     type: LMU
     year: 2022
-    nowAt: Amazon/ UK
+    nowAt: Amazon
   - name: Dr. Jindong Gu
     website: https://jindonggu.github.io/
     type: LMU
     year: 2022
-    nowAt: University of Oxford & Google Research/ UK
+    nowAt: University of Oxford; Google DeepMind
   - name: Dr. Max Berrendorf
     website: https://www.dbs.ifi.lmu.de/cms/personen/mitarbeiter/berrendorf/index.html
     type: LMU
     year: 2022
-    nowAt: 
+    nowAt: DeepL
   - name: Dr. Zhiliang Wu
     website: https://zhiliangwu.github.io/
     type: LMU
     year: 2022
-    nowAt: Siemens, München
+    nowAt: Siemens
   - name: Dr. Marcel Hildebrandt
     website: https://www.linkedin.com/in/marcel-hildebrandt-523805114/
     type: LMU
     year: 2021
-    nowAt: Siemens, München
+    nowAt: Siemens
   - name: Dr. Rui Zhao
     website: https://ruizhaogit.github.io/
     type: LMU
     year: 2020
-    nowAt: Tencent AI Lab & Robotics X/ China
+    nowAt: Tencent AI Lab
   - name: Dr. Yunpu Ma
     website: https://www.dbs.ifi.lmu.de/cms/personen/mitarbeiter/ma/index.html
     type: LMU
     year: 2020
-    nowAt:
+    nowAt: LMU Munich
   - name: Dr. Stephan Baier
     website: 
     type: LMU
@@ -222,7 +227,7 @@ alumni:
     website: https://www.xing.com/profile/Yinchong_Yang
     type: LMU
     year: 2018
-    nowAt: Siemens, München
+    nowAt: Siemens
   - name: Dr. Cristóbal Esteban
     website: https://www.linkedin.com/in/cristobalesteban/
     type: LMU
@@ -232,27 +237,27 @@ alumni:
     website: 
     type: LMU
     year: 2017
-    nowAt:
+    nowAt: Süddeutsche Zeitung
   - name: Dr. Denis Krompaß
     website: https://www.linkedin.com/in/denis-krompa%C3%9F-0669b191/
     type: LMU
     year: 2015
-    nowAt:
+    nowAt: Siemens
   - name: Dr. Xueyan Jiang
     website: https://www.xing.com/profile/Xueyan_Jiang
     type: LMU
     year: 2014
-    nowAt: 
+    nowAt: Volkswagen
   - name: Dr. Maximilian Nickel
     website: https://maxn.io/
     type: LMU
     year: 2013
-    nowAt: 
+    nowAt: FAIR, Meta
   - name: Dr. Yi Huang
     website: https://www.linkedin.com/in/yi-huang-2810a418/
     type: LMU
     year: 2020
-    nowAt: 
+    nowAt: Siemens
   - name: Dr. Achim Rettinger
     website: https://www.uni-trier.de/index.php?id=69122
     type: TUM
@@ -272,12 +277,12 @@ alumni:
     website: https://www.linkedin.com/in/shipengyu/
     type: LMU
     year: 2006
-    nowAt:
+    nowAt: Pinterest
   - name: Dr. Kai Yu
     website: https://scholar.google.com/citations?user=y5zkBeMAAAAJ&hl=en
     type: LMU
     year: 2004
-    nowAt:
+    nowAt: Horizon Robotics
   - name: Dr. Anton Schwaighofer
     website: http://research.microsoft.com/users/antonsc/
     type: U of Graz
@@ -312,7 +317,7 @@ alumni:
     website: https://www.linkedin.com/in/juergen-hollatz-9552b917a/
     type: TUM
     year: 1992
-    nowAt: 
+    nowAt:
 ---
 
 <div class="projects">
@@ -432,15 +437,26 @@ alumni:
 
 
   <h2 class="category"> Alumni </h2>
-  <ul>
+  <div class="alumni-grid">
   {%- for person in page.alumni.people -%}
-    <li>{% if person.website -%}
-              <a href="{{person.website}}">{{person.name}} </a>
-            {%- else -%}
-              {{person.name}}
+    <article class="alumni-card">
+      <div class="alumni-year">{{ person.year }}</div>
+      <div class="alumni-details">
+        <h3 class="alumni-name">
+          {% if person.website -%}
+            <a href="{{person.website}}">{{person.name}}</a>
+          {%- else -%}
+            {{person.name}}
+          {%- endif -%}
+        </h3>
+        {% if person.nowAt -%}
+          <div class="alumni-now">
+            <span class="alumni-label">Now at</span>
+            <span>{{ person.nowAt }}</span>
+          </div>
         {%- endif -%}
-        ({{person.type}}, {{person.year}})</li>
-<!--     , now at {{person.nowAt}} -->
+      </div>
+    </article>
   {%- endfor -%}
-  </ul>
+  </div>
 </div>
