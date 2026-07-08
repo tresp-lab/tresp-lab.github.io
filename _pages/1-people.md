@@ -370,13 +370,13 @@ alumni:
 
 
   <h2 class="category"> {{page.academic.title}} </h2>
-  <div class="people-grid">
+  <div class="people-grid org-grid">
   {%- for org in page.academic.org -%}
-  <article class="grid-item card" style="padding-top: 1.5rem;" >
+  <article class="grid-item card org-card" >
     {% if org.picture -%}
-      <img class="" src="/assets/img/{{org.picture}}" alt="Portrait ({{org.name}})">
+      <img class="org-logo" src="/assets/img/{{org.picture}}" alt="{{org.name}} logo">
     {%- else -%}
-      <img class=" rounded-circle" src="/assets/img/logo-P.png" alt="Portrait ({{person.name}})" >
+      <img class="org-logo" src="/assets/img/logo-P.png" alt="{{org.name}} logo" >
     {%- endif -%}
   <div class="card-body" style = "padding: 20px;">
     <h2 class="card-title">
@@ -398,13 +398,13 @@ alumni:
   </div>
   
   <h2 class="category"> {{page.industry.title}} </h2>
-  <div class="people-grid">
+  <div class="people-grid org-grid">
   {%- for org in page.industry.org -%}
-  <article class="grid-item card" style="padding-top: 1.5rem;" >
+  <article class="grid-item card org-card" >
     {% if org.picture -%}
-      <img class="" src="/assets/img/{{org.picture}}" alt="Portrait ({{org.name}})">
+      <img class="org-logo" src="/assets/img/{{org.picture}}" alt="{{org.name}} logo">
     {%- else -%}
-      <img class="" src="/assets/img/logo-P.png" alt="Portrait ({{person.name}})" >
+      <img class="org-logo" src="/assets/img/logo-P.png" alt="{{org.name}} logo" >
     {%- endif -%}
   <!--<div class="card-body" style = "padding: 20px;">
     <h2 class="card-title">
