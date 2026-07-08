@@ -17,10 +17,6 @@ staff:
       description: Dozent 
       website: https://yunpuma.github.io/
       picture: people/yunpu.jpg
-    - name: Hang Li
-      description: Phd Student
-      website: https://hangligit.github.io/
-      picture: people/hangli.jpg
     - name: Thomas Decker
       description: Phd Student
       website: https://scholar.google.com/citations?user=Et8pIioAAAAJ&hl=en
@@ -137,6 +133,10 @@ industry:
 alumni:
   title: Alumni
   people:
+  - name: Dr. Hang Li
+    website: https://hangligit.github.io/
+    type: LMU
+    year: 2026
   - name: Dr. Haukun Chen
     description: PhD Student
     website: https://haokunchen245.github.io/
