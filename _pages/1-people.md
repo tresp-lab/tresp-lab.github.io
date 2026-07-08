@@ -459,4 +459,7 @@ alumni:
     </article>
   {%- endfor -%}
   </div>
+  <p class="alumni-note">
+    Alumni updates are welcome. Please contact us at tresplab@gmail.com.
+  </p>
 </div>
