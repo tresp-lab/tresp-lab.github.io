@@ -60,7 +60,7 @@ staff:
       picture: people/tong-liu.jpg
     - name: Jinhe Bi
       description: PhD Student
-      website: https://www.linkedin.com/in/jinhe-bi-2a4403241/
+      website: https://jinhe-bi.github.io/
       picture: people/jinhe-bi.jpeg
     - name: Martino Pulici
       description: PhD Student
@@ -82,6 +82,20 @@ staff:
       description: PhD Student
       picture: people/zefeng.jpeg
       website: https://www.linkedin.com/in/zefeng-wang-165253234
+    - name: Aniri
+      description: PhD Student
+      website: https://www.linkedin.com/in/aniri-496375264/
+      picture: people/aniri.jpg
+      interests: VLA, Continual Learning
+    - name: Yilun Liu
+      description: PhD Student
+      website: https://www.linkedin.com/in/liuyilun2000/
+      picture: people/yilun-liu.jpg
+      interests: Recursive Self-Improvement
+    - name: Ganyu Wu
+      description: PhD Student
+      website:
+      picture:
 
 academic:
   title: Affiliation
