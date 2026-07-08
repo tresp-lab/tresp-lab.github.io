@@ -167,7 +167,7 @@ alumni:
     website: https://zifengding.github.io/
     type: LMU
     year: 2025
-    nowAt: Cambridge University; Mina AI
+    nowAt: University of Cambridge; Mina AI
   - name: Dr. Yushan Liu
     website: https://scholar.google.com/citations?user=OU8wf5kAAAAJ&hl=de
     type: LMU
