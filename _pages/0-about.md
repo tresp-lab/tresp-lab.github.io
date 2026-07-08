@@ -10,6 +10,8 @@ carousels:
       text:
     - image: /assets/img/carousel/group4.png
       text:
+    - image: /assets/img/carousel/group-2026.jpeg
+      text:
     - image: /assets/img/carousel/group5.png
       text:
     - image: /assets/img/carousel/group6.png
@@ -37,7 +39,3 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-
-
-
-
