@@ -222,7 +222,7 @@ alumni:
     website: 
     type: LMU
     year: 2019
-    nowAt:
+    nowAt: Baier Data & AI Consulting
   - name: Dr. Yinchong Yang
     website: https://www.xing.com/profile/Yinchong_Yang
     type: LMU
@@ -232,7 +232,7 @@ alumni:
     website: https://www.linkedin.com/in/cristobalesteban/
     type: LMU
     year: 2018
-    nowAt:
+    nowAt: Cambrian Intelligence
   - name: Dr. Jonathan Boidol
     website: 
     type: LMU
@@ -262,17 +262,17 @@ alumni:
     website: https://www.uni-trier.de/index.php?id=69122
     type: TUM
     year: 2010
-    nowAt:
+    nowAt: University of Trier
   - name: Dr. Markus Bundschus
     website: https://www.dbs.ifi.lmu.de/%7Ebundschu/
     type: LMU
     year: 2010
-    nowAt:
+    nowAt: Roche
   - name: Dr. Zhao Xu
     website: 
     type: LMU
     year: 2007
-    nowAt:
+    nowAt: NEC Laboratories Europe
   - name: Dr. Shipeng Yu
     website: https://www.linkedin.com/in/shipengyu/
     type: LMU
@@ -287,29 +287,29 @@ alumni:
     website: http://research.microsoft.com/users/antonsc/
     type: U of Graz
     year: 2003
-    nowAt:
+    nowAt: Microsoft Research
   - name: Dr. Harald Steck
     website: https://www.linkedin.com/in/harald-steck-130391b7/
     type: TUM
     year: 2001
-    nowAt:
+    nowAt: Netflix
   - name: Dr. Jaakko Hollmen
     website: https://www.digitalfutures.kth.se/person/jaakko-hollmen/
     type: Helsinki U. of T.
     year: 2000
-    nowAt:
+    nowAt: Aalto University
   - name: Dr. Thomas Briegel
     website: https://www.xing.com/profile/Thomas_Briegel
     type: TUM
     year: 1999
     nowAt:
   - name: Dr. Ralph Neuneier
-    website: https://www.xing.com/profile/Thomas_Briegel
+    website: 
     type: T.U. of Kaiserslautern
     year: 1998
-    nowAt:
+    nowAt: Siemens
   - name: Dr. Reimar Hofmann
-    website: https://www.xing.com/profile/Thomas_Briegel
+    website: 
     type: TUM
     year: 1997
     nowAt:
@@ -317,7 +317,7 @@ alumni:
     website: https://www.linkedin.com/in/juergen-hollatz-9552b917a/
     type: TUM
     year: 1992
-    nowAt:
+    nowAt: Siemens
 ---
 
 <div class="projects">
