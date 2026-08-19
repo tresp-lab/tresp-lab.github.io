@@ -69,7 +69,7 @@ staff:
     - name: Sikuan Yan
       description: PhD Student
       picture: people/yansikuan.jpeg
-      website: https://www.linkedin.com/in/sikuan-yan/
+      website: https://yansikuan.github.io/
     - name: Yakov Golovanev
       description: PhD Student
       picture: people/Iakov.jpeg
