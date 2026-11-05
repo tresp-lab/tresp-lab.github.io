@@ -13,8 +13,6 @@ We welcome motivated students and researchers interested in trustworthy, robust,
 
 We currently do not have a fixed PhD opening listed on this page.
 
-Strong candidates with aligned research interests are welcome to contact us at [tresplab@gmail.com](mailto:tresplab@gmail.com).
-
 ## Thesis and Guided Research
 
 We are open to working with motivated master's students on thesis projects and guided research.
